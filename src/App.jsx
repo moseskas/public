@@ -16,7 +16,7 @@ const GUIDE_IMGS = ["data:image/webp;base64,UklGRoinAQBXRUJQVlA4IHynAQAQigWdASrU
 /* Short explainer videos: paste .mp4 or YouTube/Vimeo links here, e.g.
    { title: "How to insert FC2", url: "https://example.org/fc2.mp4" } */
 const VIDEOS = [
-  { title: "How to use FC2 Condoms", url: "/videos/fc2-how-to.mp4" },
+  { title: "How to use FC2 Condoms", url: "public/videos/fc2-how-to.mp4" },
   { title: "FC2 Maxima– Frequently Asked Questions", url: "/videos/fc2-faqs.mp4" },
   { title: "FC2 Maxima How To Use", url: "/videos/fc2-maxima.mp4" },
 
