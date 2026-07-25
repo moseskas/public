@@ -1,3 +1,0 @@
-git mv fc2-faqs.mp4 videos/
-git commit -m "Move fc2-faqs.mp4 to videos folder"
-git push
