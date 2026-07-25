@@ -1,0 +1,1 @@
+PUT YOUR .mp4 FILES IN THIS FOLDER, then list them in src/App.jsx in the VIDEOS constant, e.g. { title: 'How to insert FC2', url: '/videos/insert.mp4' }
