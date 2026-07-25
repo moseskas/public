@@ -27,12 +27,12 @@ const VIDEOS = [
   { title: "How to use FC2 Condoms", url: "/videos/fc2-how-to.mp4", lang: "en" },
   { title: "FC2 Maxima– Frequently Asked Questions", url: "/videos/fc2-faqs.mp4", lang: "en" },
   { title: "FC2 Maxima How To Use", url: "/videos/fc2-maxima.mp4", lang: "en" },
-  { title: "Comment utiliser le FC2 préservatif interne féminin - Sous-titres en français", url: "cmt-ins-pres-fem.mp4", lang: "fr" },
-  { title: "Les Questions Fréquemment Posées sur le FC2 préservatif interne féminin Sous-titres en français", url: "faq-fr.mp4", lang: "fr" },
-  { title: "Como usar o FC2 preservativo feminino interno", url: "como-usar-pt.mp4", lang: "pt" },
-  { title: "Perguntas Frequentes sobre o FC2 preservativo feminino interno", url: "faq-pt.mp4", lang: "pt" },
-  { title: "Como usar el FC2 condón femenino interno", url: "como-usar.mp4", lang: "sp" },
-  { title: "Preguntas frecuentes sobre el FC2 condón femenino interno", url: "faq-sp.mp4", lang: "sp" },
+  { title: "Comment utiliser le FC2 préservatif interne féminin - Sous-titres en français", url: "/videos/cmt-ins-pres-fem.mp4", lang: "fr" },
+  { title: "Les Questions Fréquemment Posées sur le FC2 préservatif interne féminin Sous-titres en français", url: "/videos/faq-fr.mp4", lang: "fr" },
+  { title: "Como usar o FC2 preservativo feminino interno", url: "/videos/como-usar-pt.mp4", lang: "pt" },
+  { title: "Perguntas Frequentes sobre o FC2 preservativo feminino interno", url: "/videos/faq-pt.mp4", lang: "pt" },
+  { title: "Como usar el FC2 condón femenino interno", url: "/videos/como-usar.mp4", lang: "sp" },
+  { title: "Preguntas frecuentes sobre el FC2 condón femenino interno", url: "/videos/faq-sp.mp4", lang: "sp" },
 
 ];
 
